@@ -25,7 +25,7 @@ $_ADDONLANG[ 'Resources' ] = 'Ресурсы';
 $_ADDONLANG[ 'Billing' ] = 'Биллинг';
 $_ADDONLANG[ 'Information' ] = 'Информация';
 $_ADDONLANG[ 'Sync' ] = 'Синхронизация';
-$_ADDONLANG[ 'Data' ] = 'data';
+$_ADDONLANG[ 'Data' ] = 'данные';
 $_ADDONLANG[ 'LoginPassword' ] = 'логин/пароль';
 $_ADDONLANG[ 'MappedFilter' ] = 'показать только mapped пользователей';
 
@@ -47,20 +47,20 @@ $_ADDONLANG[ 'LoginToCP' ] = 'Войти в КП';
 // messages
 $_ADDONLANG[ 'ActivatedSuccessfully' ] = 'Пользователь успешно активирован';
 $_ADDONLANG[ 'ActivatedError' ] = 'Произошла ошибка при активации пользователя: ';
-$_ADDONLANG[ 'MapedSuccessfully' ] = 'User was mapped successfully';
-$_ADDONLANG[ 'MapedError' ] = 'There was error during user\'s maping: ';
-$_ADDONLANG[ 'MapedErrorExists' ] = 'user was already mapped';
-$_ADDONLANG[ 'UnmapedSuccessfully' ] = 'User was unmapped successfully';
-$_ADDONLANG[ 'UnmapedError' ] = 'There was error during user\'s unmaping: ';
+$_ADDONLANG[ 'MapedSuccessfully' ] = 'Пользователь был успешно mapped';
+$_ADDONLANG[ 'MapedError' ] = 'Произошла ошибка во время maping пользователя: ';
+$_ADDONLANG[ 'MapedErrorExists' ] = 'пользователь уже mapped';
+$_ADDONLANG[ 'UnmapedSuccessfully' ] = 'Пользователь был unmapped успешно';
+$_ADDONLANG[ 'UnmapedError' ] = 'Произошла ошибка при unmaping пользователя: ';
 $_ADDONLANG[ 'DataSyncedSuccessfully' ] = 'Данные успешно синхронизированы';
 $_ADDONLANG[ 'DataSyncedError' ] = 'Произошла ошибка при синхронизации данных: ';
 $_ADDONLANG[ 'SuspendSuccessfully' ] = 'Пользователь успешно заблокирован';
 $_ADDONLANG[ 'SuspendError' ] = 'Произошла ошибка при блокировании пользователя: ';
-$_ADDONLANG[ 'AuthSyncedSuccessfully' ] = 'Login and Password are now identical';
-$_ADDONLANG[ 'AuthSyncedError' ] = 'There was error during authentication synchronization: ';
+$_ADDONLANG[ 'AuthSyncedSuccessfully' ] = 'Логин и пароль синхронизированы';
+$_ADDONLANG[ 'AuthSyncedError' ] = 'Произошла ошибка во время синхронизации аутентификации: ';
 $_ADDONLANG[ 'BlockOpsSuccessfully' ] = 'Операция успешно выполнена';
 $_ADDONLANG[ 'BlockOpsError' ] = 'Произошли ошибки при выполнении операций';
 $_ADDONLANG[ 'ID' ] = 'ID';
 
 // JavaScript
-$_ADDONLANG[ 'JSMessages' ]['UnmapAlert'] = 'Do you really want to unmap selected user(s)?';
+$_ADDONLANG[ 'JSMessages' ]['UnmapAlert'] = 'Вы действительно хотите unmap выбранных пользователей?';
