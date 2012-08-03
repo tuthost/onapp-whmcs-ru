@@ -1,6 +1,6 @@
 # Version 0.1
 $_LANG["onapp"] = "Облако";
-$_LANG["onapperrtablecreate"] = "Ошибка при создании %s таблицы";
+$_LANG["onapperrtablecreate"] = "Ошибка при создании таблицы %s";
 $_LANG["onapperrtemplatecreate"] = "Ошибка при добавлении '%s' шаблона";
 $_LANG["onapperrcantfoundserver"] = "Cannot find OnApp #%s server in the Database";
 $_LANG["onapperrcantfoundactiveserver"] = "Can't find active OnApp server in the Database";
